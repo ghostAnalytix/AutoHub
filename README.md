@@ -55,16 +55,25 @@ Open index.html in your web browser to view the homepage.
 ## Usage
 ### Homepage: 
 Browse featured products, use the navigation bar to access different pages.
+![image](https://github.com/ghostAnalytix/AutoHub/assets/168078572/fc024684-ab5e-4ff3-85db-b8ac06d965c8)
+![image](https://github.com/ghostAnalytix/AutoHub/assets/168078572/23eadc2b-d873-4c15-b075-7abece263c74)
+
 ### Search: 
 Use the search bar to find products. The results will be displayed on the search results page.(under construction)
 ### Products: 
 View the list of products and add them to the cart.
+![image](https://github.com/ghostAnalytix/AutoHub/assets/168078572/c6e930c9-06a4-4e34-871b-c5a938491de9)
+
 ### Cart: 
 View the items added to the cart and proceed to checkout. (under construction)
 ### Login/Register: 
 Access your account using the login page or create a new account using the registration page.(under construction)
+![image](https://github.com/ghostAnalytix/AutoHub/assets/168078572/68464049-8b4e-4da8-a5f1-3e27b3e7b414)
+
 ### Store Locator: 
 Find nearby stores using the integrated Google Maps.
+![image](https://github.com/ghostAnalytix/AutoHub/assets/168078572/66578bd4-3c39-4837-84d1-d614f4282a98)
+
 ### Contact: 
 Use the contact form to get in touch with the company.
 ## Customization
