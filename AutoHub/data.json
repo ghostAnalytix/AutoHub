@@ -1,0 +1,453 @@
+{
+  "siteSettings": {
+    "siteName": "AutoHub",
+    "logoUrl": "https://banner2.cleanpng.com/20180410/pyw/kisspng-the-mp-car-group-car-dealership-vehicle-auto-detai-car-logo-5acc63ad412f59.047531031523344301267.jpg",
+    "themeColor": "#e4033a",
+    "contactEmail": "support@autohub.com"
+  },
+  "userPreferences": {
+    "language": "en",
+    "currency": "CAD",
+    "layoutPreferences": {
+      "showPrices": true,
+      "enableNotifications": true,
+      "theme": "light"
+    }
+  },
+  "pages": [
+    {
+      "name": "Home",
+      "url": "/index.html"
+    },
+    {
+      "name": "Products",
+      "url": "/products.html"
+    },
+    {
+      "name": "Search Results",
+      "url": "/search_results.html"
+    },
+    {
+      "name": "Login",
+      "url": "/login.html"
+    },
+    {
+      "name": "Store Locator",
+      "url": "/store_locator.html"
+    },
+    {
+      "name": "Wishlist",
+      "url": "/wishlist.html"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact.html"
+    },
+    {
+      "name": "Terms and Conditions",
+      "url": "/terms.html"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Brake Disc",
+      "description": "High-quality brake disc for all types of vehicles.",
+      "price": 45.99,
+      "imageUrl": "https://images.lteplatform.com/images/products/600x600/104745289.jpg?v=06.02",
+      "category": "Brakes"
+    },
+    {
+      "id": 2,
+      "name": "Air Filter",
+      "description": "Improve your vehicle's air intake with our best air filters.",
+      "price": 19.99,
+      "imageUrl": "https://images.lteplatform.com/images/products/600x600/502745158.jpg",
+      "category": "Filters"
+    },
+    {
+      "id": 3,
+      "name": "Oil Filter",
+      "description": "Optimize engine performance with high-grade oil filters.",
+      "price": 7.5,
+      "imageUrl": "https://images.lteplatform.com/images/products/600x600/50173506U.jpg?v=08.06",
+      "category": "Filters"
+    },
+    {
+      "id": 4,
+      "name": "Windshield Wiper",
+      "description": "Durable wipers that ensure clear vision regardless of the weather.",
+      "price": 12.99,
+      "imageUrl": "https://images.lteplatform.com/images/products/600x600/485740045.jpg?v=12.18",
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "name": "Headlight Bulb",
+      "description": "Bright, long-lasting headlight bulbs for safer night driving.",
+      "price": 22.99,
+      "imageUrl": "https://images.lteplatform.com/images/products/600x600/481770196a.jpg?v=20.10",
+      "category": "Electrical"
+    },
+    {
+      "id": 6,
+      "name": "Car Battery",
+      "description": "Reliable car batteries with extended life and performance.",
+      "price": 109.99,
+      "imageUrl": "https://images.lteplatform.com/images/products/600x600/444770121.jpg?v=16.08",
+      "category": "Electrical"
+    },
+    {
+      "id": 7,
+      "name": "Shock Absorber",
+      "description": "Premium shock absorbers for a smoother ride.",
+      "price": 85.0,
+      "imageUrl": "https://images.sip-scootershop.com/cdn-cgi/imagedelivery/7WkrUYN4GAew8Bx4sug9hQ/8Z90ENS1LECWnkhEVIrYkw/600x600",
+      "category": "Suspension"
+    },
+    {
+      "id": 8,
+      "name": "Exhaust System",
+      "description": "High-performance exhaust systems that improve your vehicle's efficiency.",
+      "price": 199.99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD51jPsYKWmklc9Qym8bZWzt1a06Z7wP-rguebbMAZA&s",
+      "category": "Exhaust"
+    },
+    {
+      "id": 9,
+      "name": "Timing Belt",
+      "description": "Durable timing belts that maintain engine synchronization.",
+      "price": 33.49,
+      "imageUrl": "https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.625,f_auto,h_214,q_auto,w_380/c_pad,h_214,w_380/F4750692-01?pgw=1",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 10,
+      "name": "Spark Plug",
+      "description": "High-quality spark plugs that ensure smooth engine starts.",
+      "price": 4.99,
+      "imageUrl": "https://cdn.media.halfords.com/i/washford/746362?w=620&h=480&qlt=default&fmt=auto&v=1",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 11,
+      "name": "Alternator",
+      "description": "Efficient alternators that keep your battery charged and engine running.",
+      "price": 150.0,
+      "imageUrl": "https://www.ymfcarparts.co.uk/images/blog/AdobeStock_61062794.jpg",
+      "category": "Electrical"
+    },
+    {
+      "id": 12,
+      "name": "Radiator",
+      "description": "High-capacity radiators to keep your engine cool under all conditions.",
+      "price": 120.0,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Automobile_radiator.jpg",
+      "category": "Cooling System"
+    },
+    {
+      "id": 13,
+      "name": "Thermostat",
+      "description": "Reliable thermostats to maintain the optimal engine temperature.",
+      "price": 14.95,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgKGPB6ZMRv7d0nOFUmeWU8_GQQwy94L0A6EOa0mdTA&s",
+      "category": "Cooling System"
+    },
+    {
+      "id": 14,
+      "name": "Fuel Pump",
+      "description": "Ensure precise fuel flow with our high-quality fuel pumps.",
+      "price": 89.99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSneAp7swz-OPPSNrar3dDPIMSqOxBNBe46J3Ent5k81A&s",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 15,
+      "name": "Clutch Kit",
+      "description": "Complete clutch kits for smooth gear transition and performance.",
+      "price": 175.0,
+      "imageUrl": "https://assets-valeo.keepeek.com/medias/domain8143/media102979/893995-hfrs8yn65k-preview1.png",
+      "category": "Transmission"
+    },
+    {
+      "id": 16,
+      "name": "Gear Oil",
+      "description": "Premium gear oil for maximum protection and efficiency.",
+      "price": 11.99,
+      "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2020/10/SR/EN/GP/102065849/prime-tek-ep-90-gear-oil.jpg",
+      "category": "Oils & Fluids"
+    },
+    {
+      "id": 17,
+      "name": "Brake Pads",
+      "description": "Durable brake pads for maximum safety and performance.",
+      "price": 35.99,
+      "imageUrl": "https://www.tateboys.com/wp-content/uploads/sites/16/2023/09/car-brakes-beside-brake-pads.jpg",
+      "category": "Brakes"
+    },
+    {
+      "id": 18,
+      "name": "Tail Light Assembly",
+      "description": "Complete tail light assemblies for your vehicle's rear lighting.",
+      "price": 49.99,
+      "imageUrl": "https://www.spareshut.com/cdn/shop/files/001dafb7-d2a2-41ec-831d-b1f2f2f1bb7c_996x.jpg?v=1707769552",
+      "category": "Lighting"
+    },
+    {
+      "id": 19,
+      "name": "Tire Pressure Sensor",
+      "description": "Reliable sensors to keep track of your tire pressure efficiently.",
+      "price": 36.75,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj1af5-JX6kM-eqYqueHBQEDJ59tqlFOAMkmRW6Mch1A&s",
+      "category": "Tires & Wheels"
+    },
+    {
+      "id": 20,
+      "name": "Wheel Bearing",
+      "description": "High-quality wheel bearings for smooth and silent operation.",
+      "price": 24.99,
+      "imageUrl": "https://www.ymfcarparts.co.uk/images/blog/0-0-Wheel-Bearing.jpg",
+      "category": "Tires & Wheels"
+    },
+    {
+      "id": 21,
+      "name": "Engine Oil",
+      "description": "Full synthetic high-performance engine oil for maximum efficiency.",
+      "price": 25.99,
+      "imageUrl": "https://m.media-amazon.com/images/I/41cFd5jhRRL.jpg",
+      "category": "Oils & Fluids"
+    },
+    {
+      "id": 22,
+      "name": "Transmission Fluid",
+      "description": "High-quality fluid for smooth transmission operation.",
+      "price": 18.5,
+      "imageUrl": "https://mypartsng.com/media/Screenshot-109.png",
+      "category": "Oils & Fluids"
+    },
+    {
+      "id": 23,
+      "name": "Cabin Air Filter",
+      "description": "Keep the air inside your vehicle clean and fresh with our cabin air filters.",
+      "price": 15.99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScejc9Dzj2DJfSwhyuqLsZaVyuiKLPGbiCJjZQyAjdcA&s",
+      "category": "Filters"
+    },
+    {
+      "id": 24,
+      "name": "Suspension Coil Spring",
+      "description": "Durable and reliable suspension springs for enhanced ride comfort.",
+      "price": 34.95,
+      "imageUrl": "https://bumper-blog-prod.s3.eu-west-1.amazonaws.com/cars_coil_springs_0a8ebc2027.jpg",
+      "category": "Suspension"
+    },
+    {
+      "id": 25,
+      "name": "Steering Rack",
+      "description": "Precision-engineered steering rack for optimal steering response.",
+      "price": 112.0,
+      "imageUrl": "https://bumper-blog-prod.s3.eu-west-1.amazonaws.com/steering_rack_1_6955933f96.jpg",
+      "category": "Steering"
+    },
+    {
+      "id": 26,
+      "name": "Drive Belt",
+      "description": "High-strength drive belts with long operational life.",
+      "price": 22.49,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxW3gR53exI_cWHiqh10TKX2oAJSon4W5CE70Nl5Cldg&s",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 27,
+      "name": "Turbocharger",
+      "description": "Boost your engine's power with our efficient turbochargers.",
+      "price": 320.99,
+      "imageUrl": "https://spn-sta.spinny.com/blog/20220228135020/MINI-Turbocharger-1200x675.jpg?compress=true&quality=80&w=1200&dpr=2.6",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 28,
+      "name": "Fuel Injector",
+      "description": "Optimize your engine's fuel injection system for better performance.",
+      "price": 88.99,
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:700/0*mAimUQ23s757u9dX.",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 29,
+      "name": "Water Pump",
+      "description": "Reliable water pumps to prevent engine overheating.",
+      "price": 45.75,
+      "imageUrl": "https://www.idolz.com/wp-content/uploads/2021/04/water-pump-dolz.jpg",
+      "category": "Cooling System"
+    },
+    {
+      "id": 30,
+      "name": "Differential Oil",
+      "description": "Premium oil for your vehicle's differential, ensuring smooth and quiet operation.",
+      "price": 13.99,
+      "imageUrl": "https://raceandrally.com/media/catalog/product/cache/1/thumbnail/600x600/9df78eab33525d08d6e5fb8d27136e95/1/0/105777_-_gear_300_75w90.png",
+      "category": "Oils & Fluids"
+    },
+    {
+      "id": 31,
+      "name": "Antifreeze",
+      "description": "Protect your engine against winter's cold with our high-quality antifreeze.",
+      "price": 12.99,
+      "imageUrl": "https://digitalcontent.api.tesco.com/v2/media/ghs/422c34c4-9341-409e-bf36-3bb2f4312514/c7154a5b-d5c5-4ba0-9d65-d7c5ec03fe68_184409142.jpeg?h=960&w=960",
+      "category": "Oils & Fluids"
+    },
+    {
+      "id": 32,
+      "name": "Brake Fluid",
+      "description": "Ensure optimal braking performance with our high-grade brake fluid.",
+      "price": 9.5,
+      "imageUrl": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/33/680795/1.jpg?9623",
+      "category": "Oils & Fluids"
+    },
+    {
+      "id": 33,
+      "name": "Power Steering Fluid",
+      "description": "Maintain smooth and responsive steering with our power steering fluid.",
+      "price": 7.99,
+      "imageUrl": "https://www.kroger.com/product/images/large/front/0084053011645",
+      "category": "Oils & Fluids"
+    },
+    {
+      "id": 34,
+      "name": "LED Headlights",
+      "description": "Upgrade your visibility with our bright and long-lasting LED headlights.",
+      "price": 130.0,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSOKa35nN75l4ilXkSx7KFF7b09D1vWEzdUDAbX-gPkw&s",
+      "category": "Lighting"
+    },
+    {
+      "id": 35,
+      "name": "Fog Lights",
+      "description": "Cut through adverse weather with our high-performance fog lights.",
+      "price": 50.0,
+      "imageUrl": "https://media.autoexpress.co.uk/image/private/s--67-YCKEu--/f_auto,t_content-image-mobile@1/v1562251022/autoexpress/images/car_photo_237231.jpg",
+      "category": "Lighting"
+    },
+    {
+      "id": 36,
+      "name": "Car Alarm System",
+      "description": "Protect your vehicle with our state-of-the-art car alarm systems.",
+      "price": 149.99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgFuFkewW7YVTbYdgvvCrrpDF1IjaEdcLcRiSeYCtzUw&s",
+      "category": "Security"
+    },
+    {
+      "id": 37,
+      "name": "Rearview Camera",
+      "description": "Enhance your parking accuracy with our high-definition rearview cameras.",
+      "price": 75.99,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQ8M_yI_ETDNppaBIPUpLv1cf1E0Da5TfN3sJ7u4IsA&s",
+      "category": "Accessories"
+    },
+    {
+      "id": 38,
+      "name": "GPS Navigation System",
+      "description": "Navigate with confidence using our accurate GPS systems.",
+      "price": 199.99,
+      "imageUrl": "https://www.dynonavionics.com/images/products/components/gps-mapping-03.jpg",
+      "category": "Accessories"
+    },
+    {
+      "id": 39,
+      "name": "Seat Covers",
+      "description": "Customize and protect your car's interior with our stylish seat covers.",
+      "price": 89.99,
+      "imageUrl": "https://www.ezeeparts.co.uk/wp-content/uploads/2021/07/3.-Caddy-Alc-Hex-Grey.png.webp",
+      "category": "Interior"
+    },
+    {
+      "id": 40,
+      "name": "Floor Mats",
+      "description": "Keep your car's floors clean and neat with our durable floor mats.",
+      "price": 49.99,
+      "imageUrl": "https://cdn.media.halfords.com/i/washford/337230?w=620&h=480&qlt=default&fmt=auto&v=1",
+      "category": "Interior"
+    },
+    {
+      "id": 41,
+      "name": "Oil Pan",
+      "description": "Durable and leak-proof oil pans to keep your engine clean.",
+      "price": 95.0,
+      "imageUrl": "https://media-www.canadiantire.ca/product/automotive/auto-maintenance/oil-change-and-fuel-accessories/0283113/drain-pan-15l-30965679-4751-4491-b2cf-4d49492efec8.png",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 42,
+      "name": "Exhaust Manifold",
+      "description": "Enhance your vehicle's exhaust system efficiency with our exhaust manifolds.",
+      "price": 120.5,
+      "imageUrl": "https://www.waltonmotorsport.com/wp-content/uploads/20220804_111524-scaled.jpg",
+      "category": "Exhaust"
+    },
+    {
+      "id": 43,
+      "name": "Catalytic Converter",
+      "description": "Reduce emissions with our high-efficiency catalytic converters.",
+      "price": 225.75,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn0N-VTOioda63upr7Qa4U_6J1DUNIYJDnQTlJk6YZvA&s",
+      "category": "Exhaust"
+    },
+    {
+      "id": 44,
+      "name": "Oxygen Sensor",
+      "description": "Optimize your fuel consumption with our precise oxygen sensors.",
+      "price": 48.95,
+      "imageUrl": "https://www.my-cardictionary.com/fileadmin/user_upload/Inhalt/Produkte/Lambdasonde/breitbandsonde.jpg",
+      "category": "Electrical"
+    },
+    {
+      "id": 45,
+      "name": "Throttle Body",
+      "description": "Control air intake efficiently with our high-performance throttle bodies.",
+      "price": 192.0,
+      "imageUrl": "https://haynes.com/en-us/sites/default/files/styles/unaltered_webp/public/What%20is%20it%20-%20Throttle%20Body.jpg?itok=SInFgHp7&timestamp=1481295316",
+      "category": "Engine Parts"
+    },
+    {
+      "id": 46,
+      "name": "Fuel Cap",
+      "description": "Secure your fuel system with our reliable and durable fuel caps.",
+      "price": 14.99,
+      "imageUrl": "https://www.t7design.co.uk/media/amasty/amoptmobile/catalog/product/cache/05eebcaf6ba888fd59c612f1f9c1e723/1/5/150-30-101_nuke_performance_remote_quick_lock_fuel_filler_cap_1_jpg.webp",
+      "category": "Accessories"
+    },
+    {
+      "id": 47,
+      "name": "Radiator Cap",
+      "description": "Maintain proper pressure in your cooling system with our radiator caps.",
+      "price": 8.99,
+      "imageUrl": "https://motorad.com/wp-content/uploads/T128_Angle.jpg",
+      "category": "Cooling System"
+    },
+    {
+      "id": 48,
+      "name": "Ignition Switch",
+      "description": "Reliable ignition switches to start your vehicle smoothly.",
+      "price": 35.75,
+      "imageUrl": "https://www.switchcomp.com/products/series/53/1573465407.png",
+      "category": "Electrical"
+    },
+    {
+      "id": 49,
+      "name": "Window Motor",
+      "description": "Power your windows with our strong and efficient window motors.",
+      "price": 87.99,
+      "imageUrl": "https://www.bosch-mobility.com/media/global/solutions/passenger-cars-and-light-commercial-vehicles/comfort-systems/komfortantriebe/elektrischer-fensterheberantrieb/comfort_actuators_window_product_slider_stage_mobile.png",
+      "category": "Electrical"
+    },
+    {
+      "id": 50,
+      "name": "Door Lock Actuator",
+      "description": "Ensure your vehicle's security with our robust door lock actuators.",
+      "price": 45.0,
+      "imageUrl": "https://img.fruugo.com/product/4/46/603449464_max.jpg",
+      "category": "Security"
+    }
+  ]
+}

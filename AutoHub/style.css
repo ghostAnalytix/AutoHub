@@ -1,0 +1,259 @@
+/* General Reset and Body Styling */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #ffffff; /* Changed to white */
+}
+
+.imgclass {
+  width: 300px;
+  height: 300px;
+}
+/* Main Header Styling */
+#main-header {
+  background-color: #ffd700; /* Yellow background */
+  color: #333; /* Dark text for contrast */
+  padding: 20px 0;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#main-header h1 {
+  margin: 0;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#main-header p {
+  margin: 5px 0 0 0;
+  font-size: 18px;
+}
+
+/* Intro Header Styling */
+.intro-header {
+  background-color: #e4033a; /* Red background */
+  color: #ffffff; /* White text */
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 20px; /* Spacing between intro header and carousel */
+  overflow: hidden;
+  position: relative;
+}
+
+.scrolling-text {
+  display: flex;
+  margin-left: auto;
+  white-space: nowrap;
+  animation: scrolling 15s linear infinite;
+}
+
+@keyframes scrolling {
+  0% {
+    transform: translateX(1%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+/* Navigation Bar */
+nav {
+  background-color: #f8f9fa;
+  border-bottom: 1px solid #dddddd;
+}
+
+nav a {
+  color: #333333; /* Dark text for nav links */
+  text-decoration: none;
+  padding: 10px 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #e4033a; /* Red on hover */
+}
+
+/* Logo Styling */
+.logo {
+  height: 40px; /* Adjust the height of the logo */
+  margin-right: 10px;
+}
+
+/* Main Content Styling */
+main {
+  padding: 20px;
+  background-color: #ffffff; /* White background */
+}
+
+.welcome-container {
+  background-color: #ffd700; /* Yellow background */
+  color: #333; /* Dark text */
+  padding: 20px;
+  border-radius: 5px;
+  animation: fadeIn 2s ease-in-out;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Carousel Styling */
+.carousel-inner img {
+  height: 50%; /* Set a max height for carousel images */
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #e4033a; /* Red background for controls */
+  border-radius: 50%;
+}
+
+.carousel-control-prev-icon:hover,
+.carousel-control-next-icon:hover {
+  background-color: #c4022a; /* Darker red on hover */
+}
+
+/* Footer Styling */
+footer {
+  background-color: #0044cc; /* Blue background for footer */
+  color: #ffffff; /* White text */
+  text-align: center;
+  padding: 20px 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a {
+  color: #ffd700; /* Yellow for links in footer */
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #e4033a; /* Red on hover */
+}
+
+/* Typography */
+h1,
+h2,
+h3,
+h4 {
+  color: #333;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 20px;
+}
+h5 {
+  padding-left: 35px;
+}
+
+/* Buttons and Links */
+button,
+.button {
+  background-color: #0044cc; /* Blue buttons */
+  color: #ffffff; /* White text */
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  text-transform: uppercase;
+}
+
+button:hover,
+.button:hover {
+  background-color: #0033a0; /* Darker blue on hover */
+}
+
+/* Forms and Inputs */
+input[type="text"],
+input[type="password"],
+textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Popovers */
+.popover {
+  position: absolute;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+.popover-show {
+  display: block;
+}
+
+/* Close buttons for modal and popover */
+.close-btn {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  font-size: 24px;
+  color: #666;
+}
+
+.close-btn:hover {
+  color: #333;
+}
+
+/* Tooltips */
+.tooltip {
+  position: absolute;
+  background-color: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-size: 14px;
+  display: none;
+  z-index: 100;
+}
+
+.tooltip-show {
+  display: block;
+}
+
+/* Responsive Design for small devices */
+@media (max-width: 600px) {
+  nav {
+    flex-direction: column;
+  }
+
+  .button {
+    width: 100%;
+    display: block;
+  }
+
+  .popover,
+  .tooltip {
+    width: 80%;
+    max-width: 300px; /* Ensure these components don't become too wide on small screens */
+  }
+}
+
+/* Utility Classes */
+.text-center {
+  text-align: center;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
